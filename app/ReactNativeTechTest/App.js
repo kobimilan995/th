@@ -2,7 +2,7 @@
  * React Native Tech Test
  */
 
-import React, {useState, useRef} from 'react';
+import React, {useState} from 'react';
 import {
   SafeAreaView,
   View,
